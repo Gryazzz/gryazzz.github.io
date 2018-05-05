@@ -5,7 +5,7 @@ position: relative;
 }
 
 body {
-background: url("images/bg2.jpg") no-repeat center center fixed;
+background: url("images/BG2.jpg") no-repeat center center fixed;
 -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -80,7 +80,7 @@ word-spacing: 0.30em; /*standard 0.25em*/
 }
 
 .main div {
-background: url("images/bg4.jpg");
+background: url("images/BG4.jpg");
 background: rgba(0, 255, 230, 0.33);
 
 }
